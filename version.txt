@@ -1,0 +1,5 @@
+#This file stores the Thor server version of a labelled perforce tree.
+
+#Versioning convention: 1.0, 2.0 etc. for major features added. 1.1,1.2 for small enhancements, bug fixes.
+
+THOR_SERVER_VERSION=1.0
